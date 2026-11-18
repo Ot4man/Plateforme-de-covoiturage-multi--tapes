@@ -1,4 +1,4 @@
-package com.covoiturage.service;
+package com.covoiturage.service.driver;
 
 import com.covoiturage.entity.Driver;
 import com.covoiturage.repository.DriverRepository;
