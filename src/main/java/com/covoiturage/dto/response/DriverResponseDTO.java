@@ -1,4 +1,4 @@
-package com.covoiturage.dto;
+package com.covoiturage.dto.response;
 
 import lombok.Getter;
 import lombok.Setter;
