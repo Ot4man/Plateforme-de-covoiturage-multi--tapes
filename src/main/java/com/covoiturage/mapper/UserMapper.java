@@ -1,7 +1,7 @@
 package com.covoiturage.mapper;
 
-import com.covoiturage.dto.UserRequestDTO;
-import com.covoiturage.dto.UserResponseDTO;
+import com.covoiturage.dto.request.UserRequestDTO;
+import com.covoiturage.dto.response.UserResponseDTO;
 import com.covoiturage.entity.User;
 import org.springframework.stereotype.Component;
 
