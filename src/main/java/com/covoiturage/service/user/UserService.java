@@ -1,4 +1,4 @@
-package com.covoiturage.service;
+package com.covoiturage.service.user;
 
 import com.covoiturage.dto.request.UserRequestDTO;
 import com.covoiturage.dto.request.UserUpdateRequestDTO;
