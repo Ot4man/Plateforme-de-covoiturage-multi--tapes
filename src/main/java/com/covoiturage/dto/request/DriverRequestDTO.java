@@ -1,4 +1,4 @@
-package com.covoiturage.dto;
+package com.covoiturage.dto.request;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.Getter;
