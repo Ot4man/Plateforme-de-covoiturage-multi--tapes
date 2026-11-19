@@ -1,4 +1,4 @@
-package com.covoiturage.dto;
+package com.covoiturage.dto.response;
 
 import com.covoiturage.enums.UserRole;
 import lombok.Getter;
