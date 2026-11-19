@@ -1,6 +1,6 @@
 package com.covoiturage.mapper;
 
-import com.covoiturage.dto.DriverResponseDTO;
+import com.covoiturage.dto.response.DriverResponseDTO;
 import com.covoiturage.entity.Driver;
 import org.springframework.stereotype.Component;
 
