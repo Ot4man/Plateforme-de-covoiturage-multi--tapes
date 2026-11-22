@@ -4,6 +4,7 @@ package com.covoiturage.dto.request;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
+import jakarta.validation.constraints.Max;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -24,6 +25,7 @@ public class VehicleRequestDTO {
 
     @NotNull
     @Min(1)
+    @Max(8)
     private Integer capacite;
 
     @NotNull
