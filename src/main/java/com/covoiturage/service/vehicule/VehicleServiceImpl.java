@@ -1,4 +1,4 @@
-package com.covoiturage.service.vehicle;
+package com.covoiturage.service.vehicule;
 
 import com.covoiturage.dto.request.VehicleRequestDTO;
 import com.covoiturage.dto.response.VehicleResponseDTO;
